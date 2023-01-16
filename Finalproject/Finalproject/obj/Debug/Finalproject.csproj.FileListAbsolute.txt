@@ -1,0 +1,7 @@
+E:\arquery\formApp\Finalproject\Finalproject\bin\Finalproject.dll.config
+E:\arquery\formApp\Finalproject\Finalproject\bin\Finalproject.dll
+E:\arquery\formApp\Finalproject\Finalproject\bin\Finalproject.pdb
+E:\arquery\formApp\Finalproject\Finalproject\obj\Debug\Finalproject.dll
+E:\arquery\formApp\Finalproject\Finalproject\obj\Debug\Finalproject.pdb
+E:\arquery\formApp\Finalproject\Finalproject\obj\Debug\Finalproject.csproj.AssemblyReference.cache
+E:\arquery\formApp\Finalproject\Finalproject\obj\Debug\Finalproject.csproj.CoreCompileInputs.cache
